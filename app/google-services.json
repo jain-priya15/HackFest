@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696375550352",
+    "firebase_url": "https://hackathon-1532713025565.firebaseio.com",
+    "project_id": "hackathon-1532713025565",
+    "storage_bucket": "hackathon-1532713025565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696375550352:android:39dda68d73a8fdea",
+        "android_client_info": {
+          "package_name": "com.HelpingHands.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696375550352-j1v9evod7gts2c5ri2jv9svq27k762li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HelpingHands.in",
+            "certificate_hash": "e2f85d0bfcf252e1c162f2fa5dde578f03a76abe"
+          }
+        },
+        {
+          "client_id": "696375550352-eks35lk3f257ab8l4uu1hi3curbs6lpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmuw1Q2YjNqFwpQB72pixcCypLrZjoZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696375550352-eks35lk3f257ab8l4uu1hi3curbs6lpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
